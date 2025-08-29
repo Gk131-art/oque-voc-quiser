@@ -25,9 +25,7 @@ section {
 h1 {
   font-size: 40px;
 }
+
 p {
-  font-size: 20px;
-}
-img {
-  height: 200px;
+  font-size: 20xp;
 }
